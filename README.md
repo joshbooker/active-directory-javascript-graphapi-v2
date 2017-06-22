@@ -12,7 +12,7 @@ Commenting out until we release the guided setup in docs
 
 ## How to run this solution
 
->> Full instructions comming soon
+> Full instructions coming soon
 
 ### Add your application registration information to your solution
 
@@ -20,7 +20,7 @@ Commenting out until we release the guided setup in docs
 2. Enter a name for your application and your email 
 3. Make sure the option for *Guided Setup* is unchecked
 4.	Click `Add Platform`, then select `Web`
-5. Add a redirect URL to your application. See below for how to obtain the redirect URL in Visual Studio
+5. Add a redirect URL to your application's registration information. See below for how to obtain the redirect URL in Visual Studio
 6. Click *Save*
 
 > #### Visual Studio instructions for obtaining redirect URL using SSL
