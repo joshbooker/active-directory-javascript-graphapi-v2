@@ -7,7 +7,7 @@
     tenant: "infoconsulting.onmicrosoft.com",
     //authorityUrl: msalconfig.authorityHostUrl + '/' + msalconfig.common,
     clientID: "39683401-a60c-4bc6-b744-6dbaedef498d",
-    secret: "NTjj9dYf2KDCxdZRCVLMXex",
+    secret: "",
     redirectUri: location.origin,
     groupId: "c3346f2f-94d5-401a-afb1-9ad77616d79f"
 };
