@@ -127,7 +127,7 @@ function callGraphApi2() {
                                     "customizedMessageBody": "Hi Josh2, you can find more information here: http://localhost:30662/"
                                 }
                                 };
-                var result = inviteUserAddGroupMember(graphInvitationEndpoint, "POST", body, token, graphCallResponseElement, document.getElementById("accessToken"));
+                var result = inviteUserAddGroupMember(msalconfig.graphInvitationEndpoint, "POST", body, token, graphCallResponseElement, document.getElementById("accessToken"));
 
             }, function (error) {
                 // If the acquireTokenSilent() method fails, then acquire the token interactively via acquireTokenRedirect().
